@@ -3,6 +3,7 @@
 HTML, CSS, 바닐라JS를 활용한 "Devholic" 크롭앱입니다.<br/>
 
 <br/>
+
 ![chromeApp](https://user-images.githubusercontent.com/38060979/125185146-f2e71b00-e25d-11eb-96a4-471bda7ecd13.png)
 
 <br/>
