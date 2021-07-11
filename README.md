@@ -1,6 +1,6 @@
 # 프로젝트 소개
 
-HTML, CSS, 바닐라JS를 활용한 "momentum" 크롭앱입니다.<br/>
+HTML, CSS, 바닐라JS를 활용한 "Devholic" 크롭앱입니다.<br/>
 
 <br/>
 <br/>
@@ -36,11 +36,6 @@ HTML, CSS, 바닐라JS를 활용한 "momentum" 크롭앱입니다.<br/>
 - 개발환경 : Windows 10 Enterprise x64
 - 개발도구 : vscode, Github
 - 구성환경 : HTML, CSS, Vanilla js
-
-<br/>
-<br/>
-
-# 실행 스크린 샷
 
 <br/>
 <br/>
