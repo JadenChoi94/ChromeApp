@@ -1,6 +1,6 @@
 # 프로젝트 소개
 
-HTML, CSS, 바닐라JS를 활용한 "Devholic" 크롭앱입니다.<br/>
+HTML, CSS, 바닐라JS를 활용한 "Devholic" 크롬앱입니다.<br/>
 
 <br/>
 
